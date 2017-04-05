@@ -14,7 +14,7 @@
     "autoload": {
         "files": ["src/functions.php"],
         "psr-0": {
-            "System7": "src/"
+            "System7\\": "src/"
         }
     },
     "require": {
